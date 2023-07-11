@@ -1,0 +1,4 @@
+.DS_Store
+requirements.in
+mid_project_env/
+notebooks/.ipynb_checkpoints/
