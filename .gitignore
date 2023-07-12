@@ -2,3 +2,5 @@
 requirements.in
 mid_project_env/
 notebooks/.ipynb_checkpoints/
+data_clean.csv
+EDA_file.csv
